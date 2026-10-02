@@ -23,3 +23,15 @@ dist/
 
 # environment variables
 .env
+.mops
+/.mops
+
+# Ignore the documentation files
+documentation/*.aux
+documentation/*.log
+documentation/*.fdb_latexmk
+documentation/*.files
+documentation/*.synctex.gz
+documentation/*.pdf
+documentation/*.fls
+documentation/*.out
